@@ -1,0 +1,29 @@
+
+b{
+    font-size: 30px;
+}
+
+#center{
+    text-align: center;
+    display: inline-block;
+    margin-left: 40px; 
+    text-decoration: overline;
+ 
+}
+
+.GoIT{
+    
+    width: 400px;
+    height: auto;
+    
+}
+
+.Go{
+    
+    margin-left: 32%;
+    
+}
+
+p{
+    font-size: 20px;
+}
